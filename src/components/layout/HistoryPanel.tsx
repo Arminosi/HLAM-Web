@@ -170,7 +170,7 @@ export function HistoryPanel({ onClose }: HistoryPanelProps) {
                     onClick={() => handleOpen(entry.fileName)}
                   >
                     <span className="text-lg shrink-0">
-                      {entry.fileName.toLowerCase().startsWith('v_') ? '🔫' : '🧟'}
+                      {entry.fileName.toLowerCase().startsWith('v_') ? '🔫' : '📦'}
                     </span>
                     <div className="flex-1 min-w-0">
                       <div className="text-sm font-medium text-hlam-text truncate">
