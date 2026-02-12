@@ -7,7 +7,7 @@
 #   - Or trigger manually from Actions tab
 #
 # Base path:
-#   - GitHub Pages: auto-detected from repo name (e.g. /HalfLifeAssetManager/)
+#   - GitHub Pages: auto-detected from repo name (e.g. /HLAM-Web/)
 #   - Other platforms: set VITE_BASE_PATH env or leave empty for root "/"
 # ============================================================================
 
